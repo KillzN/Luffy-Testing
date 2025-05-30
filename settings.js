@@ -9,19 +9,19 @@ import moment from 'moment-timezone'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botNumberCode = '' //Ejemplo: +56983073328
+global.botNumberCode = '' //Ejemplo: +573243446506
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['56983073328', 'KILLBOT', true],
-  ['56983073328', 'KILLBOT', true],
-  ['56983073328', 'KILLBOT', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
+  ['573243446506', 'LUFFYBOT', true],
+  ['573243446506', 'LUFFYBOT', true],
+  ['573243446506', 'LUFFYBOT', true],
+  ['573243446506'],
+  ['573243446506'],
+  ['573243446506'],
+  ['573243446506'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -47,8 +47,8 @@ global.vs = '2.0.7'
 global.languaje = 'Español'
 global.nameqr = 'Sisked-x'
 global.namebot = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔'
-global.sessions = 'KILLBOTSession'
-global.jadi = 'KILLBOTJadiBot'
+global.sessions = 'LUFFYBOTSession'
+global.jadi = 'LUFFYBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -71,12 +71,12 @@ global.grupo = 'https://chat.whatsapp.com/HqhAoXS8TCcJIn0KrbJZKz'
 global.channel = 'https://chat.whatsapp.com/HqhAoXS8TCcJIn0KrbJZKz'
 global.channel2 = 'https://chat.whatsapp.com/HqhAoXS8TCcJIn0KrbJZKz'
 global.md = 'https://wa.me/qr/PAOHAKCEHGUXN1'
-global.ig = 'www.instagram.com/ineffable.mvrco'
-global.tiktok = 'https://www.tiktok.com/@ineffable.mvrco'
+global.ig = 'www.instagram.com/luffybot03'
+global.tiktok = 'https://www.tiktok.com/@luffybot03'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "56983073328-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount: -999999, status: 1, surface: 1, message: 'Ai Otho - MD', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net' } } }
+global.estilo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "573243446506-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount: -999999, status: 1, surface: 1, message: 'Ai Otho - MD', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net' } } }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
